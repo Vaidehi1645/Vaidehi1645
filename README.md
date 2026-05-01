@@ -7,6 +7,8 @@ I am a final-year B.Tech CSE student at Navrachana University with a passion for
 
 ### 🚀 Technical Skills
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - **AI/ML:** Python, OpenAI Whisper, NLTK, OpenCV, MediaPipe, Agentic AI Workflows
 - **Web Development:** .NET Core, Angular, Node.js, TypeScript, RESTful APIs
 - **Database & Cloud:** SQL Server, MySQL, Firebase, AWS (Data Engineering & ML Certified)
