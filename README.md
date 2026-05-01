@@ -1,4 +1,4 @@
-# Hi, I'm Vaidehi Hirani 👋
+# Hi,👋 I'm Vaidehi Hirani
 
 ### AI Developer | Specializing in Agentic AI & Full-Stack Systems
 I am a final-year B.Tech CSE student at Navrachana University with a passion for building autonomous agents and integrating AI into real-world applications. Currently working as a Full-Stack Intern at Digikentro.
