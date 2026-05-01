@@ -7,12 +7,19 @@ I am a final-year B.Tech CSE student at Navrachana University with a passion for
 
 ### 🚀 Technical Skills
 
+**AI & Machine Learning**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- **AI/ML:** Python, OpenAI Whisper, NLTK, OpenCV, MediaPipe, Agentic AI Workflows
-- **Web Development:** .NET Core, Angular, Node.js, TypeScript, RESTful APIs
-- **Database & Cloud:** SQL Server, MySQL, Firebase, AWS (Data Engineering & ML Certified)
-- **Languages:** Python 🐍, C#, Java, JavaScript, SQL
+**Full-Stack Development**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Cloud & Databases**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
