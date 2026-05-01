@@ -34,6 +34,11 @@ An **Agentic AI** framework that automates candidate screening.
 A full-stack application that turns images into structured tasks.
 - **Tech Stack:** Angular, .NET, Google Cloud Vision OCR.
 
+#### [AI Helmet for Accident Detection and Alert System](https://github.com/Vaidehi1645/AI-Helmet)
+An IoT-based safety system designed for real-time accident detection and emergency response.
+- **Tech Stack:** ESP32, Android Studio (Java/Kotlin), Firebase, Sensors.
+- **Key Feature:** Implements sensor fusion (accelerometer/gyroscope) and automatic SMS alerts with live GPS location sharing.
+
 ---
 
 ## 📊 GitHub Stats
