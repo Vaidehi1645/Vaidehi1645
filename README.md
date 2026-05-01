@@ -37,8 +37,8 @@ A full-stack application that turns images into structured tasks.
 ---
 
 ### 📊 GitHub Stats
-![Vaidehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaidehi-Hirani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehi-Hirani&layout=compact&theme=radical)
+![Vaidehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaidehi1645&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehi1645&layout=compact&theme=radical)
 
 ---
 
